@@ -23,7 +23,7 @@ The Source Start contributors board. Add one small file about yourself and your 
 }
 ```
 
-`language`, `link` and `fun_fact` are optional. Your photo comes from your GitHub account.
+`language`, `link` and `fun_fact` are optional. Your profile photo comes from your GitHub account.
 
 A check runs on your pull request. If it fails, click **Details** to see exactly what's wrong with your file.
 
