@@ -8,7 +8,7 @@ The Source Start contributors board. Add one small file about yourself and your 
 
 1. Fork this repo.
 2. Copy `profiles/_example.json` to a new `.json` file in `profiles/` and fill it in.
-3. Commit, push to your fork, and open a pull request.
+3. Commit, push to your fork, and open a pull request....
 
 ```json
 {
